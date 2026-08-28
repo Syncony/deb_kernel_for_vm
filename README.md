@@ -1,5 +1,5 @@
 # deb_kernel_for_vm
-cloud kernel for kvm vps
+cloud kernel for kvm vps [Latest](https://github.com/Syncony/deb_kernel_for_vm/releases/latest)
 
 # patches
   - [bbr3](https://github.com/google/bbr)
